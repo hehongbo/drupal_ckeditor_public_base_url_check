@@ -1,0 +1,16 @@
+{
+    "name": "hehongbo/ckeditor_public_base_url_check",
+    "description": "An alternative to CKEditor “Restrict images to site” filter when using an external domain as public file base URL.",
+    "type": "drupal-module",
+    "homepage": "https://github.com/hehongbo/drupal_ckeditor_public_base_url_check",
+    "authors": [
+        {
+            "name": "Hongbo He",
+            "homepage": "https://hongbohe.net",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/core": "^8.8 || ^9"
+    }
+}

@@ -1,0 +1,8 @@
+<?php
+/**
+ * CKEditor Public Base URL Check - An alternative to CKEditor "Restrict images to site" filter when using an external
+ * domain as public file base URL.
+ *
+ * @package     ckeditor_public_base_url_check
+ * @author      Hongbo He
+ */

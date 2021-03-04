@@ -1,0 +1,5 @@
+name: CKEditor Public Base URL Check
+type: module
+description: 'An alternative to CKEditor "Restrict images to site" filter when using an external domain as public file base URL.'
+package: CKEditor
+core_version_requirement: ^8.8 || ^9
